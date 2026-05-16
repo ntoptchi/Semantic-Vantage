@@ -1,4 +1,4 @@
-# Sematic / Vantage (GeoSight)
+# GeoSight (Sematic-Vantage)
 
 A geospatial intelligence platform for analyzing environmental signals from satellite data.
 
